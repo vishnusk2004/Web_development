@@ -1,0 +1,9 @@
+<h1>Button with values</h1>
+<div id="div1" class="colour">
+  Here is div 1
+</div>
+<div id="div2">
+  Here is div 2
+</div>
+<input type="button" value="Change color" onclick="change()">
+<input type="button" value="Change text" onclick="changetxt()">
