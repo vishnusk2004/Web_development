@@ -1,0 +1,23 @@
+h1 {
+  font-family: arial;
+  color: dimgray;
+}
+div {
+  width: 140pt;
+  padding: 5;
+  margin: 10pt;
+  border: 1px solid lightgray;
+  font-size: 16pt;
+}
+#div1 {
+  background-color: blue;
+}
+#div2 {
+  background-color: yellow;
+}
+.colour {
+  background-color: yellow !important;
+}
+.colour_1 {
+  background-color: blue !important;
+}
